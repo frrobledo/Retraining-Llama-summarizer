@@ -1,0 +1,6 @@
+apikey.txt
+__pycache__/*
+trained_news_summarizer/*
+alpaca_dataset/alpaca_news_summaries_latest.json
+training_data/news_summaries_latest.json
+training_data/summarizer_progress.json

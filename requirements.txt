@@ -1,0 +1,14 @@
+accelerate==1.0.1
+beautifulsoup4 @ file:///croot/beautifulsoup4-split_1718029820055/work
+bitsandbytes==0.44.1
+datasets==3.0.2
+google-generativeai==0.8.3
+huggingface-hub==0.26.1
+pillow @ file:///croot/pillow_1721059439630/work
+requests @ file:///croot/requests_1721410876868/work
+sentencepiece==0.2.0
+torch==2.5.0
+tqdm==4.66.5
+transformers==4.46.0
+unsloth @ git+https://github.com/unslothai/unsloth.git@49ae6194122b594a7054da0bfd6f387cf720f40f
+unsloth_zoo==2024.10.5

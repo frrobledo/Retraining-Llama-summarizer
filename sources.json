@@ -1,0 +1,12 @@
+{
+    "El_Pais_economia": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/economia/portada",
+    "El_Pais_mas_visto": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/lo-mas-visto/portada",
+    "El_Pais": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/ultimas-noticias/portada",
+    "The_Guardian_International": "https://theguardian.com/international/rss",
+    "La_Vanguardia": "https://www.lavanguardia.com/rss/home.xml",
+    "The_Guardian_Opinion": "https://theguardian.com/commentisfree/rss",
+    "The_Guardian_Techonology": "https://theguardian.com/technology/rss",
+    "The_Guardian_main": "https://theguardian.com/uk/rss",
+    "Techmeme": "https://techmeme.com/feed.xml",
+    "newyorker": "https://www.newyorker.com/feed/rss"
+}
